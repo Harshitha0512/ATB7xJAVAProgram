@@ -7,5 +7,6 @@ public class Lab022 {
         System.out.println(10<=10);//true
         System.out.println(10<10);//false
         System.out.println(10>10);//false
+
     }
 }

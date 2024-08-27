@@ -10,8 +10,6 @@ public class Lab021 {
         System.out.println(result);
         boolean result1 = age_vinay>age_harshitha;
         System.out.println(result1);
-
-
         int a = 10;
         int b = 20;
         boolean c = (10>=10); // 10> 10 or 10=10?

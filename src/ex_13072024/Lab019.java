@@ -15,7 +15,6 @@ public class Lab019 {
         int a = 10;
         int b = 20;
         System.out.println(a+b);
-
         int age1 = +29; //Unary plus
         int nume = -1; // Unary minus
         System.out.println(age+nume);

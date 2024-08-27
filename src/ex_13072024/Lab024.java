@@ -14,7 +14,6 @@ public class Lab024 {
         System.out.println(false && true); // false
         System.out.println(false && false); // false
         System.out.println("------------------");
-
         int a1 = 12;
         boolean b1 = !(a1 > 10 || a1<5);
         System.out.println(b1);

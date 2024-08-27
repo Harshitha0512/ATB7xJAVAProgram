@@ -12,6 +12,5 @@ public class Lab017 {
         System.out.println("Harshitha" + c2 +"Vinay");
         System.out.println("Harshitha" + c3 +"Vinay");
 
-
     }
 }

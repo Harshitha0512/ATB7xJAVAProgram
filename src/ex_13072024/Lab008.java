@@ -28,6 +28,5 @@ public class Lab008 {
         //non-primitive data type
         String name = "Harshitha";
         System.out.println(name);
-
     }
 }

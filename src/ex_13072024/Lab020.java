@@ -14,5 +14,6 @@ public class Lab020 {
         System.out.println("value of a is " + a);
         System.out.println(a%=10);
         System.out.println("value of a is " + a);
+
     }
 }

@@ -6,7 +6,6 @@ public class Lab011 {
         String s1 = "Harshitha";
         String s2 = "Vinay";
         System.out.println(s1+s2);
-
         String s3 = "Value";
         int x = 100;
         int y = 200;

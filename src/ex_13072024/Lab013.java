@@ -16,6 +16,5 @@ public class Lab013 {
         System.out.printf("Sub is %f\n",sub);
         System.out.printf("Mul is %f\n",mul);
         System.out.printf("Div is %f\n",div);
-
     }
 }

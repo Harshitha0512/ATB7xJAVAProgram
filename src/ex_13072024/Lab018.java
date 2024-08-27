@@ -11,6 +11,7 @@ public class Lab018 {
         float f  = 123.2222289F;
         double h= 345.9876345678d;
         String g = null;
+
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);

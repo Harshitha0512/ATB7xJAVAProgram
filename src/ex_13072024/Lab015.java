@@ -8,5 +8,6 @@ public class Lab015 {
         double d = b%a;
         System.out.println(c);
         System.out.println(d);
+
     }
 }

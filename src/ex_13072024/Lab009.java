@@ -22,6 +22,5 @@ public class Lab009 {
         int _123 = 897;
         System.out.println(_123);
 
-
     }
 }

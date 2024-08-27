@@ -6,5 +6,6 @@ public class Lab023 {
         System.out.println(!a); //false
         System.out.println(!(10>20));//true
         System.out.println(!!!!(30>90)); //false
+
     }
 }

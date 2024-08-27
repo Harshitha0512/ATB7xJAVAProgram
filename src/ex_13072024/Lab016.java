@@ -5,6 +5,7 @@ public class Lab016 {
         //int enum = 10; enum is the keyword we can't use as a variable name
         int Enum = 10;
         System.out.println(Enum);
+
     }
 
 

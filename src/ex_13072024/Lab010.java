@@ -10,6 +10,7 @@ public class Lab010 {
         //%f - float
         //formatting
         System.out.printf("your age is -> %d",age);
+
     }
 
 }
