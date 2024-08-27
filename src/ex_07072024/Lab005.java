@@ -6,6 +6,6 @@ public class Lab005{
         System.out.print("Hi");//print in same line
         System.out.print("Hi");//print in same line
         System.out.print("Hi");//print in same line
-
+        System.out.println();
     }
 }
