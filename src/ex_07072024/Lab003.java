@@ -6,5 +6,8 @@ public class Lab003 {
         System.out.println(2-2);
         System.out.println(2*2);
         System.out.println(2/2);
+        System.out.println(2/2);
+        System.out.println("hi");
     }
 }
+
